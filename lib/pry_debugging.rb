@@ -1,5 +1,6 @@
 def plus_two(num)
-	sum = num + 2
-	return sum
+  const = 2 
+	sum = num + const
+sum
 	binding.pry
 end
